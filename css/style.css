@@ -1,0 +1,36 @@
+body {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	background-color: rgb(238, 233, 215);
+}
+
+.app {
+	display: block;
+	text-align: center;
+}
+
+.title {
+	background-color: #ecd27d;
+	padding: 20px 0;
+	margin: 0;
+}
+.count {
+	font-size: 2rem;
+}
+
+button {
+	border: none;
+	padding: 13px;
+	margin: 5px;
+	font-size: 1.2rem;
+	
+}
+
+button:hover {
+	cursor: pointer;
+	background-color:rgb(236, 210, 125);
+}
+
+hr {
+	margin: 0;
+	border: 1px solid  rgb(179, 163, 110);;
+}
